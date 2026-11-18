@@ -1,5 +1,7 @@
 # ArkxCTF — AI Red Team Field Notes
 
+![ArkxCTF](ctf.jpeg)
+
 Eight hands-on AI-agent security challenges, eight different ways an agent's **tools** failed. These are condensed write-ups from an authorized CTF engagement, published so security teams can see how agentic systems break in practice.
 
 Every result here was reproduced by hand, one hypothesis at a time. Flags are redacted. No client, employer, or platform-internal material is included.
